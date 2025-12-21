@@ -38,7 +38,7 @@
 
 💼 **5**
 
-🔭 Currently working on **[PostmanCollections](https://github.com/Madhavi-Mogulluri/PostmanCollections)**
+🔭 Currently working on **ISTQB certification**
 
 🌱 Currently learning **K6**
 
