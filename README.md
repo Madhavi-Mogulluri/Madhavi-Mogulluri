@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Madhavi%20Mogulluri&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Test%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Madhavi%20Mogulluri&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20development%20Engineer%20in%20Test&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Madhavi-Mogulluri">
@@ -273,4 +273,3 @@
 **⭐ From [Madhavi-Mogulluri](https://github.com/Madhavi-Mogulluri) with ❤️**
 
 </div>
-
