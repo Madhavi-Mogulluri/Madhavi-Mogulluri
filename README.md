@@ -87,6 +87,20 @@
 
 <table>
 <tr>
+
+  </td>
+<td valign="top" width="33%">
+
+<h3 align="center">💻 Development</h3>
+<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</div>
+
+</td>
+
 <td valign="top" width="33%">
 
 <h3 align="center">🧪 Testing & QA</h3>
@@ -104,18 +118,7 @@
 <img src="https://img.shields.io/badge/ExtentReports-00897B?style=for-the-badge&logo=extent&logoColor=white" alt="extentreports"/>
 </div>
 
-</td>
-<td valign="top" width="33%">
 
-<h3 align="center">💻 Development</h3>
-<br/>
-<div align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</div>
-
-</td>
 <td valign="top" width="33%">
 
 <h3 align="center">⚙️ DevOps & Tools</h3>
