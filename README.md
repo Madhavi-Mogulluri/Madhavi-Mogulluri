@@ -141,11 +141,12 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> Featured Projects
 
 <div align="center">
-
+  
+<a href="https://github.com/Madhavi-Mogulluri/Playwright-Framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Madhavi-Mogulluri&repo=Playwright-Framework&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Playwright-Framework"/></a>
 <a href="https://github.com/Madhavi-Mogulluri/PostmanCollections"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Madhavi-Mogulluri&repo=PostmanCollections&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="PostmanCollections"/></a>
 <a href="https://github.com/Madhavi-Mogulluri/APIFrameWork"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Madhavi-Mogulluri&repo=APIFrameWork&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="APIFrameWork"/></a>
 <a href="https://github.com/Madhavi-Mogulluri/APIPractice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Madhavi-Mogulluri&repo=APIPractice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="APIPractice"/></a>
-<a href="https://github.com/Madhavi-Mogulluri/Playwright-Framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Madhavi-Mogulluri&repo=Playwright-Framework&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Playwright-Framework"/></a>
+<a href="https://github.com/Madhavi-Mogulluri/Playwright-Framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Madhavi-Mogulluri&repo=Selenium-Framework&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Playwright-Framework"/></a>
 <a href="https://github.com/Madhavi-Mogulluri/Java-Script-Practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Madhavi-Mogulluri&repo=Java-Script-Practice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Java-Script-Practice"/></a>
 <a href="https://github.com/Madhavi-Mogulluri/Type-Script-Practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Madhavi-Mogulluri&repo=Type-Script-Practice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Type-Script-Practice"/></a>
 
