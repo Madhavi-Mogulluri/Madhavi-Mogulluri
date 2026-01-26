@@ -35,7 +35,7 @@
 
 💼 **5**
 
-🔭 Currently working on **ISTQB certification**
+🔭 Currently working on **Typescript projects**
 
 🌱 Currently learning **K6**
 
