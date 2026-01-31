@@ -41,7 +41,7 @@
 
 💬 Ask me about **Test automation, selenium, Playwright, Testing methodlogies,ApI testing-postman**
 
-Certifications :ISTQB
+🎓 Certifications: ISTQB
 
 ⚡ Fun fact: **If it works on first try, I get suspicious.”**
 
