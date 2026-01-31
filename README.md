@@ -41,10 +41,11 @@
 
 💬 Ask me about **Test automation, selenium, Playwright, Testing methodlogies,ApI testing-postman**
 
+Certifications :ISTQB
 
 ⚡ Fun fact: **If it works on first try, I get suspicious.”**
 
-📦 **9** repositories
+📦 **11** repositories
 
 <br clear="right"/>
 
